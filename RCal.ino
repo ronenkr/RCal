@@ -1,6 +1,6 @@
 /*
     LilyGo Ink Base Calendar with the hebrew holidays
-        - Created by Ronen K
+        - Created by R K
 */
 
 // According to the board, cancel the corresponding macro definition
